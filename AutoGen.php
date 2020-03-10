@@ -3,7 +3,7 @@
  * speed in 10 000 repetitions: 0.059666 s
  *
  * Generates a consecutive id as a string.
- * @oaram $keys - an array with valid values in order
+ * @param $keys - an array with valid values in order
  *
  * If the ID length is less than 3, the usual string is returned
  * But
